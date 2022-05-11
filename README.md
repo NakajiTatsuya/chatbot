@@ -15,6 +15,9 @@ Reactで開発したチャットボットを、Typescript + React Hooks Form で
   + 5.7.0
 - react-hook-form
   + 7.31.1
+- ESLint
+  + 8.15.0
+  + 静的解析のスタイルガイドはAirbnbに従っている
 
 (その他詳細)
 ```
